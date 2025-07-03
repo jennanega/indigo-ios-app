@@ -13,3 +13,11 @@ This is a document/project manager app built with Swift and Firebase for members
 - Design uses bold colors and custom fonts while keeping table views simple for readability
 
 This app is a colorful and functional introduction to the Indigo Collective and was developed with care to create a user-friendly experience with strong backend integration.
+
+# Screenshots
+<p float="left">
+  <img src="screenshots/login.png" width="200" height="400"/>
+  <img src="screenshots/home.png" width="200" height="400"/>
+  <img src="screenshots/light_settings.png" width="200" height="400"/>
+  <img src="screenshots/dark_settings.png" width="200" height="400"/>
+</p>
